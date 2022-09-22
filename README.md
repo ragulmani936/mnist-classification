@@ -155,7 +155,7 @@ Include your code here
 ## Input:
 ![output](https://github.com/ragulmani936/mnist-classification/blob/main/zero.jpg)
 ## Output:
-![output]()
-![output]()
+![output](https://github.com/ragulmani936/mnist-classification/blob/main/output1.jpg)
+![output](https://github.com/ragulmani936/mnist-classification/blob/main/output2.jpg)
 
 ## RESULT
