@@ -140,7 +140,8 @@ Include your code here
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![output](https://github.com/ragulmani936/mnist-classification/blob/main/graph1.jpg)
+![output]()
 
 ### Classification Report
 
