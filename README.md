@@ -149,11 +149,12 @@ Include your code here
 
 ### Confusion Matrix
 
-![output]()
+![output](https://github.com/ragulmani936/mnist-classification/blob/main/confusion.jpg)
 
 ### New Sample Data Prediction
-
+## Input:
 ![output]()
+## Output:
 ![output]()
 ![output]()
 
