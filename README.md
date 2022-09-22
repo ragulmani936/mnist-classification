@@ -153,7 +153,7 @@ Include your code here
 
 ### New Sample Data Prediction
 ## Input:
-![output]()
+![output](https://github.com/ragulmani936/mnist-classification/blob/main/zero.jpg)
 ## Output:
 ![output]()
 ![output]()
