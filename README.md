@@ -141,18 +141,20 @@ Include your code here
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 ![output](https://github.com/ragulmani936/mnist-classification/blob/main/graph1.jpg)
-![output]()
+![output](https://github.com/ragulmani936/mnist-classification/blob/main/graph2.jpg)
 
 ### Classification Report
 
-Include Classification Report here
+![output]()
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![output]()
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![output]()
+![output]()
+![output]()
 
 ## RESULT
