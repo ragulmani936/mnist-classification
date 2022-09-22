@@ -7,12 +7,12 @@ To Develop a convolutional deep neural network for digit classification and to v
 ## DESIGN STEPS
 
 ### STEP 1:
+Import tensorflow and preprocessing libraries.
 
 ### STEP 2:
-
+Build a CNN model.
 ### STEP 3:
-
-Write your own steps
+Compile and fit the model and then predict.
 
 ## PROGRAM
 ~~~
@@ -155,3 +155,4 @@ Include your code here
 ![output](https://github.com/ragulmani936/mnist-classification/blob/main/output2.jpg)
 
 ## RESULT
+Thus the convolutional deep neural network for digit classification and to verify the response for scanned handwritten images and executed succesfilly.
