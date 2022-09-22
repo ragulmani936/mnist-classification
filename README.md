@@ -145,7 +145,7 @@ Include your code here
 
 ### Classification Report
 
-![output]()
+![output](https://github.com/ragulmani936/mnist-classification/blob/main/classification.jpg)
 
 ### Confusion Matrix
 
